@@ -17,3 +17,9 @@ Key Achievements:
 
 Technologies Used:
 •Databricks SQL, Delta Lake, CSV, DataFrames, Visualization tools (bar, pie, line charts)
+
+## Visualizations
+
+### 🔍 Feature
+![Glucose vs Outcome](EV.png)
+
